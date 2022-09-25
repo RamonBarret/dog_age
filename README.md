@@ -4,7 +4,7 @@
 
 ![preview](./.github/preview.png)
 
-Projeto desevolvido através dos conhenhecimentos obtidos no cursos lecionados pelo professor Gustavo Guanabara, Curso em Vídeo.
+Projeto desenvolvido através dos conhenhecimentos obtidos nos cursos lecionados pelo professor Gustavo Guanabara, Curso em Vídeo.
 
 [🔗 Clique aqui para acessar](https://ramonbarret.github.io/dog_age/)
 
