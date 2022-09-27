@@ -5,16 +5,23 @@
 
 
 body {
-    background-image: linear-gradient(to right, #159A9C, #6A8C69);
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 1.2em;
+    background-image: url(https://t3.ftcdn.net/jpg/05/25/15/34/360_F_525153494_4iIO8GYM1SPmfjw0x6mxqWrD2fmHfIIK.jpg);
+    background-position: top center;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-color: #FCC802;
+}
+
+body * {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    line-height: 160%;
 }
 
 header {
-    color: white;
+    color: black;
     text-align: center;
-
 }
+
  h1 {
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 2.5em;
@@ -35,7 +42,7 @@ section {
     background-color: white;
     border-radius: 10px;
     padding: 15px;
-    width: 500px;
+    width: 400px;
     margin: auto;
     box-shadow: 2px 2px 2px 5px rgba(0, 0, 0, 0.096);
 }
@@ -50,7 +57,8 @@ img:hover{
 }
 
 footer {
-    color: white;
+    color: black;
+    font-weight: bold;
+    font-size: 1.2em;
     text-align: center;
-
 }
