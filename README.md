@@ -2,7 +2,7 @@
 
 >Programa para verificar a idade do seu pet.
 
-![preview](./.github/preview.png)
+![preview](./.github/preview_new.png)
 
 Projeto desenvolvido através dos conhenhecimentos obtidos nos cursos lecionados pelo professor Gustavo Guanabara, Curso em Vídeo.
 
