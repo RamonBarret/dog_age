@@ -7,7 +7,7 @@
 body {
     background-image: url(https://t3.ftcdn.net/jpg/05/25/15/34/360_F_525153494_4iIO8GYM1SPmfjw0x6mxqWrD2fmHfIIK.jpg);
     background-position: top center;
-    background-size: 100% auto;
+    background-size: 105% auto;
     background-repeat: no-repeat;
     background-color: #FCC802;
 }
@@ -20,6 +20,7 @@ body * {
 header {
     color: black;
     text-align: center;
+    padding-bottom: 2px;
 }
 
  h1 {
@@ -57,6 +58,7 @@ img:hover{
 }
 
 footer {
+    padding-top: 80px;
     color: black;
     font-weight: bold;
     font-size: 1.2em;
