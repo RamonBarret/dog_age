@@ -14,7 +14,3 @@ Projeto desenvolvido através dos conhenhecimentos obtidos nos cursos lecionados
 - CSS3
 - JavaScript
 - Git e Github
-
-## 📲 Contato
-
-Email: ramon_barreto_medrado@hotmail.com
